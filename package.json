@@ -1,0 +1,32 @@
+{
+  "name": "cra-template-patternfly",
+  "version": "1.0.0",
+  "description": "React template application for Pattternfly 4",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouracamila/cra-template-patternfly.git"
+  },
+  "author": "Carmila Moura <camilapaleo(at)gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mouracamila/cra-template-patternfly/issues"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "patternfly"
+  ],
+  "homepage": "https://github.com/mouracamila/cra-template-patternfly#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
